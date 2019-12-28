@@ -3,3 +3,6 @@ Spring Framework 中文文档 https://www.docs4dev.com/docs/zh/spring-framework/
 Spring boot https://github.com/dyc87112/SpringBoot-Learning
 
 servlet的本质是什么 https://www.zhihu.com/question/21416727/answer/339012081
+
+
+用java实现一个简单的p2p连接以及stun NAT探测 https://blog.csdn.net/wobupeiai/article/details/80962086
