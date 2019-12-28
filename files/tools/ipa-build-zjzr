@@ -1,0 +1,5 @@
+target="zjzr2"
+name_ipa="ZJZR2"
+project_path="/Users/miao/zc2017/zjzrSDK/zjzr2_client/ios/proj.ios"
+packer_path="/Users/miao/packer/ipa"
+./xcode_shell/ipa-build ${project_path} -o ${packer_path} -t ${target} -p ${name_ipa}
